@@ -41,3 +41,41 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# ==========================================
+# Microchip MPLAB X & MPLAB
+# ==========================================
+
+
+**/build/
+**/dist/
+**/disassembly/
+**/.ext/
+**/.dep/
+
+# Ignoriere die privaten IDE-Benutzereinstellungen (Pfade, geöffnete Fenster, etc.)
+**/nbproject/private/
+*.user
+*.bak
+*.bkx
+
+
+*.o
+*.obj
+*.ko
+*.elf
+*.cof
+*.d
+*.p1
+*.pre
+*.sym
+*.lst
+*.mcs
+*.mcp
+*.map
+*.err
+
+# Logs und automatische Backups der IDE
+*.log
+*.inx
+*.tmp
