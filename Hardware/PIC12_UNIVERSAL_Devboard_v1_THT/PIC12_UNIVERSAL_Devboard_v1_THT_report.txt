@@ -1,0 +1,60 @@
+PCB statistics report
+=====================
+- Date: Sun 09 Aug 2026 13:23:43 CEST
+- Project: PIC12_UNIVERSAL_Devboard_v1_THT
+- Board name: PIC12_UNIVERSAL_Devboard_v1_THT
+
+Board
+-----
+- Width: 70.0000 mm
+- Height: 40.0000 mm
+- Area: 2800.00 mm²
+- Front copper area: 365.793 mm²
+- Back copper area: 2592.249 mm²
+- Min track clearance: 0.3600 mm
+- Min track width: 0.3000 mm
+- Min drill diameter: 0.4500 mm
+- Board stackup thickness: 1.6000 mm
+
+- Front footprint area: 781.65 mm²
+- Back footprint area: 147.625 mm²
+- Front component density: 27.92 %
+- Back component density: 5.27 %
+Pads
+----
+- Through hole: 34
+- SMD: 46
+- Connector: 0
+- NPTH: 4
+- Castellated: 0
+- Press-fit: 0
+
+Vias
+----
+- Through vias: 36
+- Blind vias: 0
+- Buried vias: 0
+- Micro vias: 0
+
+Components
+----------
+
+|              | Front Side | Back Side | Total |
+|--------------|------------|-----------|-------|
+|THT:          |          7 |         0 |     7 |
+|SMD:          |         15 |         0 |    15 |
+|Unspecified:  |         17 |         0 |    17 |
+|Total:        |         39 |         0 |    39 |
+
+Drill holes
+-----------
+
+| Count | Shape |    X Size |    Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-----------|-----------|--------|---------|-------------|------------|
+|    27 | Round | 0.5000 mm | 0.5000 mm |    PTH |     Via |        F.Cu |       B.Cu |
+|    16 | Round | 1.0000 mm | 1.0000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    12 | Round | 0.8000 mm | 0.8000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     9 | Round | 0.4500 mm | 0.4500 mm |    PTH |     Via |        F.Cu |       B.Cu |
+|     4 | Round | 2.7000 mm | 2.7000 mm |   NPTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 0.9000 mm | 0.9000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 | Round | 1.3000 mm | 1.3000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
