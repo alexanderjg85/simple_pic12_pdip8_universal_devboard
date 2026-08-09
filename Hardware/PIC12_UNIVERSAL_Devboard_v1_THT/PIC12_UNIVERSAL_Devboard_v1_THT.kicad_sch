@@ -5146,7 +5146,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "4.5 x 4.5 SMD"
 			(at 252.73 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -5157,7 +5157,7 @@
 				)
 			)
 		)
-		(property "Spec" ""
+		(property "Spec" "H=5.0mm Tactile"
 			(at 252.73 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -5169,6 +5169,28 @@
 			)
 		)
 		(property "MFR PN" ""
+			(at 252.73 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 252.73 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
 			(at 252.73 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -5336,7 +5358,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "2.54 mm 1x2"
 			(at 173.99 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -5347,7 +5369,7 @@
 				)
 			)
 		)
-		(property "Spec" ""
+		(property "Spec" "Male / THT/ Vertical"
 			(at 173.99 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -5360,6 +5382,28 @@
 		)
 		(property "MFR PN" ""
 			(at 173.99 137.16 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 173.99 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 173.99 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5550,6 +5594,28 @@
 				)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 53.34 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 53.34 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "90d7c2a5-e3a6-4c34-be23-4f40696571b6")
 		)
@@ -5640,6 +5706,61 @@
 		)
 		(property "Manufacturer" "JSMSEMI(杰盛微)"
 			(at 107.95 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR PN" "SI2301-A1SHB"
+			(at 107.95 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SOT23"
+			(at 107.95 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" "P-Mos 20V 2.3A"
+			(at 107.95 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 107.95 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 107.95 87.63 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5888,7 +6009,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "1206"
 			(at 187.96 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -5899,7 +6020,7 @@
 				)
 			)
 		)
-		(property "Spec" ""
+		(property "Spec" "1% 125 mW"
 			(at 187.96 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -5911,6 +6032,28 @@
 			)
 		)
 		(property "MFR PN" ""
+			(at 187.96 137.16 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 187.96 137.16 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
 			(at 187.96 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -6023,7 +6166,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SOT-89-3"
 			(at 86.36 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -6034,7 +6177,7 @@
 				)
 			)
 		)
-		(property "Spec" ""
+		(property "Spec" "5V 0.1 A"
 			(at 86.36 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -6046,6 +6189,28 @@
 			)
 		)
 		(property "MFR PN" ""
+			(at 86.36 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 86.36 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
 			(at 86.36 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -6080,7 +6245,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -6163,6 +6328,28 @@
 			)
 		)
 		(property "MFR PN" ""
+			(at 182.88 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 182.88 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
 			(at 182.88 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -6351,6 +6538,28 @@
 				)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 186.69 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 186.69 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "066d0509-abf0-48ed-b19d-a1ced55fe0ce")
 		)
@@ -6429,7 +6638,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "5.08mm 1x2"
 			(at 52.07 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -6440,7 +6649,7 @@
 				)
 			)
 		)
-		(property "Spec" ""
+		(property "Spec" "Horizontal"
 			(at 52.07 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -6452,6 +6661,28 @@
 			)
 		)
 		(property "MFR PN" ""
+			(at 52.07 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 52.07 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
 			(at 52.07 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -6555,6 +6786,28 @@
 			)
 		)
 		(property "Spec" ""
+			(at 78.74 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 78.74 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
 			(at 78.74 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -6719,7 +6972,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SMA"
 			(at 87.63 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -6730,7 +6983,7 @@
 				)
 			)
 		)
-		(property "Spec" ""
+		(property "Spec" "30V 0.5A Schottky Diode"
 			(at 87.63 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -6742,6 +6995,39 @@
 			)
 		)
 		(property "MFR PN" ""
+			(at 87.63 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2480"
+			(at 87.63 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 87.63 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
 			(at 87.63 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -6846,6 +7132,28 @@
 		)
 		(property "Spec" ""
 			(at 186.69 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 186.69 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 186.69 44.45 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7201,6 +7509,50 @@
 				)
 			)
 		)
+		(property "Package" "0805"
+			(at 102.87 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" " ±10% 50V"
+			(at 102.87 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 102.87 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 102.87 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7beba366-5f7f-4724-8977-9b68f6852af4")
 		)
@@ -7274,6 +7626,50 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x07, script generated"
+			(at 266.7 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "2.54 mm 1x7"
+			(at 266.7 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" "Male / THT/ Vertical"
+			(at 266.7 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 266.7 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
 			(at 266.7 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -7397,7 +7793,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -7473,6 +7869,28 @@
 			(at 91.44 36.83 0)
 			(hide yes)
 			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "2.54 mm 1x3"
+			(at 111.76 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" "Male / THT/ Vertical"
+			(at 111.76 38.1 90)
+			(hide yes)
+			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -7987,6 +8405,50 @@
 				)
 			)
 		)
+		(property "Package" "0805"
+			(at 93.98 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" " ±10% 50V"
+			(at 93.98 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 93.98 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 93.98 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cbdd1d65-33fa-4fb6-af74-b21469b491f8")
 		)
@@ -8080,6 +8542,28 @@
 			)
 		)
 		(property "Spec" ""
+			(at 68.58 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 68.58 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
 			(at 68.58 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -8247,7 +8731,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "2.54 mm 1x6"
 			(at 227.33 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -8258,7 +8742,7 @@
 				)
 			)
 		)
-		(property "Spec" ""
+		(property "Spec" "Male / THT/ Vertical"
 			(at 227.33 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -8270,6 +8754,28 @@
 			)
 		)
 		(property "MFR PN" ""
+			(at 227.33 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 227.33 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
 			(at 227.33 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -8382,7 +8888,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "3 mm"
 			(at 148.59 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -8393,7 +8899,7 @@
 				)
 			)
 		)
-		(property "Spec" ""
+		(property "Spec" "LED YELLOW"
 			(at 148.59 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -8405,6 +8911,28 @@
 			)
 		)
 		(property "MFR PN" ""
+			(at 148.59 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 148.59 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
 			(at 148.59 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -8529,6 +9057,50 @@
 				)
 			)
 		)
+		(property "Package" "0805"
+			(at 60.96 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" " ±10% 50V"
+			(at 60.96 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 60.96 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 60.96 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "311c76cc-8488-4def-9fe7-8a2c0423d039")
 		)
@@ -8623,6 +9195,28 @@
 		)
 		(property "Spec" ""
 			(at 186.69 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 186.69 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 186.69 31.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8975,6 +9569,50 @@
 				)
 			)
 		)
+		(property "Package" "SOT23"
+			(at 77.47 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" "3.3V 0.25A"
+			(at 77.47 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 77.47 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 77.47 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1f473fb1-603b-4b4c-9ee5-0bed42e919a3")
 		)
@@ -9215,7 +9853,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "1206"
 			(at 148.59 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9226,7 +9864,7 @@
 				)
 			)
 		)
-		(property "Spec" ""
+		(property "Spec" "1% 125 mW"
 			(at 148.59 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9238,6 +9876,28 @@
 			)
 		)
 		(property "MFR PN" ""
+			(at 148.59 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 148.59 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
 			(at 148.59 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9429,6 +10089,28 @@
 				)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 186.69 50.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 186.69 50.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4104980c-ea57-4616-857c-760df6c83f4f")
 		)
@@ -9507,7 +10189,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "1206"
 			(at 247.65 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -9518,7 +10200,7 @@
 				)
 			)
 		)
-		(property "Spec" ""
+		(property "Spec" "1% 125 mW"
 			(at 247.65 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -9530,6 +10212,28 @@
 			)
 		)
 		(property "MFR PN" ""
+			(at 247.65 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 247.65 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
 			(at 247.65 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -9665,6 +10369,39 @@
 				)
 			)
 		)
+		(property "Package" "0805"
+			(at 167.64 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 167.64 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 167.64 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2ed30213-90d1-47f8-bd8c-bc66bdbda0e9")
 		)
@@ -9768,6 +10505,28 @@
 				)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 62.23 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 62.23 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "77fcbcb0-174e-4c27-be98-9be927c69564")
 		)
@@ -9855,7 +10614,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "3 mm"
 			(at 199.39 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -9866,7 +10625,7 @@
 				)
 			)
 		)
-		(property "Spec" ""
+		(property "Spec" "LED GREEN"
 			(at 199.39 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -9878,6 +10637,28 @@
 			)
 		)
 		(property "MFR PN" ""
+			(at 199.39 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 199.39 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
 			(at 199.39 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -10201,7 +10982,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SMA"
 			(at 68.58 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -10212,7 +10993,7 @@
 				)
 			)
 		)
-		(property "Spec" ""
+		(property "Spec" "30V 0.5A Schottky Diode"
 			(at 68.58 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -10224,6 +11005,39 @@
 			)
 		)
 		(property "MFR PN" ""
+			(at 68.58 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2480"
+			(at 68.58 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 68.58 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
 			(at 68.58 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -10396,7 +11210,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "PDIP-8"
 			(at 175.26 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -10407,7 +11221,7 @@
 				)
 			)
 		)
-		(property "Spec" ""
+		(property "Spec" "8-Bit PIC 20 Mhz"
 			(at 175.26 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -10418,7 +11232,29 @@
 				)
 			)
 		)
-		(property "MFR PN" ""
+		(property "MFR PN" "PIC12F17I/P"
+			(at 175.26 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 175.26 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
 			(at 175.26 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -10607,7 +11443,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "2.54 mm 1x2"
 			(at 148.59 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -10618,7 +11454,7 @@
 				)
 			)
 		)
-		(property "Spec" ""
+		(property "Spec" "Male / THT/ Vertical"
 			(at 148.59 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -10630,6 +11466,28 @@
 			)
 		)
 		(property "MFR PN" ""
+			(at 148.59 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 148.59 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
 			(at 148.59 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -10721,7 +11579,7 @@
 				)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "1206"
 			(at 107.95 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -10732,7 +11590,7 @@
 				)
 			)
 		)
-		(property "Spec" ""
+		(property "Spec" "1% 125 mW"
 			(at 107.95 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -10744,6 +11602,28 @@
 			)
 		)
 		(property "MFR PN" ""
+			(at 107.95 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 107.95 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
 			(at 107.95 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -11013,6 +11893,28 @@
 				)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 175.26 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 175.26 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e8fed986-df0d-4be6-9a96-4e9bfc153fa8")
 		)
@@ -11115,6 +12017,50 @@
 			)
 		)
 		(property "MFR PN" ""
+			(at 66.04 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "0805"
+			(at 66.04 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" " ±10% 50V"
+			(at 66.04 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 66.04 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
 			(at 66.04 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -11375,6 +12321,28 @@
 		)
 		(property "Spec" ""
 			(at 186.69 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 186.69 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 186.69 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
