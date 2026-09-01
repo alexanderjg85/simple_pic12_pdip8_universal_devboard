@@ -79,3 +79,10 @@ fp-info-cache
 *.log
 *.inx
 *.tmp
+/Firmware/Simple_Pic12F508_Blinky_ASM.X/build/
+/Firmware/Simple_Pic12F508_Blinky_ASM.X/dist/
+/Firmware/Simple_Pic12F508_Blinky_ASM.X/Makefile
+/Firmware/Simple_Pic12F508_Blinky_ASM.X/nbproject/Makefile-*.mk
+/Firmware/Simple_Pic12F508_Blinky_ASM.X/nbproject/Makefile-genesis.properties
+!/Firmware/Simple_Pic12F508_Blinky_ASM.X/nbproject/configurations.xml
+!/Firmware/Simple_Pic12F508_Blinky_ASM.X/nbproject/project.xml
