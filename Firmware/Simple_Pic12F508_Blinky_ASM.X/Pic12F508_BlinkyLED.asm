@@ -6,7 +6,6 @@
 
     
 #include <xc.inc>
-;   #include <P12f508.inc>
     
 #define LED_GREEN     GPIO,2
     
@@ -29,7 +28,7 @@ config OSC = IntRC
 PSECT udata, class=RAM, space=1
 delay_val:     ds 1    ; reload value for the loop counters
 delay2_var:    ds 1    ; variable for the inner 2 ms loop
-delay500_var:  ds 1    ; variable for the outer 2 ms loop
+delay500_var:  ds 1    ; variable for the outer 500 ms loop
  
    
 ;*******************************************************
@@ -49,7 +48,7 @@ START:
     ;set variables
     ;Delay_Variable
     MOVLW 0xFA	;write value FAh (250dec) in W reg
-    MOVWF delay_val ; write W into Register 10
+    MOVWF delay_val ; write W into delay_val
  
     ;40H in W, Prescaler assigned to Timer, Prescaler set to 1/2, disable Wake_up on pin change, no Pull-Ups, Timer Transisition on internal clock
     MOVLW	0x40  
