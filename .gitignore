@@ -86,3 +86,5 @@ fp-info-cache
 /Firmware/Simple_Pic12F508_Blinky_ASM.X/nbproject/Makefile-genesis.properties
 !/Firmware/Simple_Pic12F508_Blinky_ASM.X/nbproject/configurations.xml
 !/Firmware/Simple_Pic12F508_Blinky_ASM.X/nbproject/project.xml
+/Firmware/Simple_Pic12F508_TrafficLight_ASM.X/dist/
+/Firmware/Simple_Pic12F508_TrafficLight_ASM.X/build/
